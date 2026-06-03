@@ -345,7 +345,8 @@ function App() {
 </section>
 
 <footer className="footer">
-  <p>© 2026 Isha Baghele | Built with React & Vite</p>
+  <p>© 2026 Isha Baghele. All Rights Reserved.</p>
+  <p>Made with ❤️ using React & Vite</p>
 </footer>
     </div>
   );
