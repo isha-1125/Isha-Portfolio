@@ -295,6 +295,11 @@ function App() {
   action="https://api.web3forms.com/submit"
   method="POST"
   className="contact-form"
+  onSubmit={(e) => {
+  setTimeout(() => {
+    e.target.reset();
+  }, 1000);
+}}
 >
   <input
     type="hidden"
