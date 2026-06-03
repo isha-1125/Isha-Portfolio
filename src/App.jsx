@@ -206,6 +206,15 @@ function App() {
     authentication, internship management, and a user-friendly dashboard.
   </p>
 
+  <h4>Key Features</h4>
+
+<ul className="project-features">
+  <li>JWT-based user authentication and authorization</li>
+  <li>Students can browse and apply for internships</li>
+  <li>Application status tracking system</li>
+  <li>Responsive UI for mobile and desktop devices</li>
+</ul>
+
   <h4>Tech Stack</h4>
   <p>React.js, Node.js, Express.js, MongoDB, REST APIs</p>
 
@@ -239,6 +248,15 @@ function App() {
     update interview status, track company details, and organize their
     job applications through a centralized dashboard.
   </p>
+
+  <h4>Key Features</h4>
+
+<ul className="project-features">
+  <li>CRUD operations for managing job applications</li>
+  <li>JWT authentication for secure access</li>
+  <li>Track interview and application status</li>
+  <li>Centralized dashboard for job management</li>
+</ul>
 
   <h4>Tech Stack</h4>
   <p>React.js, Node.js, Express.js, MongoDB, JWT Authentication</p>
