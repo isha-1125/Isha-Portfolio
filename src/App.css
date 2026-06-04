@@ -250,10 +250,8 @@ body {
     width: 100%;
   }
 
-    .theme-btn {
-    width: 32px;
-    height: 32px;
-    padding: 0;
+     .theme-btn {
+    padding: 6px 8px;
     font-size: 0.8rem;
   }
 
