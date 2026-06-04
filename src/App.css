@@ -568,3 +568,14 @@ body {
 .project-features li {
   margin-bottom: 8px;
 }
+
+.status-badge {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 8px 16px;
+  background: rgba(139, 92, 246, 0.12);
+  color: #8b5cf6;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 999px;
+  font-weight: 600;
+}

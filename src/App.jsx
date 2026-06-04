@@ -60,7 +60,9 @@ function App() {
      Node.js, ASP.NET MVC, SQL Server and MongoDB. Passionate about
      building scalable web applications and solving real-world problems.
    </p>
-
+   <div className="status-badge">
+  🚀 Open to Software Developer Opportunities
+  </div>
 
     <div className="hero-buttons">
       <a href="#projects" className="btn">
